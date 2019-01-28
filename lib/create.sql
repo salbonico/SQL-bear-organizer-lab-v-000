@@ -1,4 +1,4 @@
-create table bears (
+"create table bears (
   id integer primary key,
   name text,
   age integer,
@@ -6,4 +6,4 @@ create table bears (
   color text,
   temperament text,
   alive integer,
-);
+);"
